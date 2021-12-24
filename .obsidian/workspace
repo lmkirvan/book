@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5e757cc5c97c51be",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7cbd912350b6f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes Register.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e864ef5527eebdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "803b38847b222d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ecbcfd8cc485f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "51357b701d1fa346",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57765d935a3aec1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ab70c3a28aa359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34778703ec8e63ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes Register.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec7cbd912350b6f7",
+  "lastOpenFiles": [
+    "Notes Register.md",
+    "Authors/Xiaonan (Flora) Ma.md",
+    "Sources/Payday Lending and the Opiod Epidemic.md",
+    "Sources/Market Myopia's climate bubble.md",
+    "Ordered reading list.md",
+    "templates/source.md",
+    "templates/author.md",
+    "templates/case study.md",
+    "Sources/The Value of Everything.md",
+    "Authors/Mariana Mazzucato.md"
+  ]
+}
