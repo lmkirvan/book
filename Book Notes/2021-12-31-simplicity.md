@@ -1,6 +1,7 @@
 ---
 tags:
  - socialist calculation problem 
+ - OPEN
 ---
 
 12302021-simplicity
